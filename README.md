@@ -1,6 +1,7 @@
-# Toys-Monthly-Sales-Dashboard
+# Toys Monthly Sales Dashboard
 
-## **Report: Monthly Sales Dashboard**
+## Inrtroduction
+The Monthly Sales Dashboard provides an in-depth view of the performance of Chicago’s, Los Angeles's and New York's region for September 2021, focusing on overall revenue, store rankings, and product-level analysis. This tool is designed to help the Chief Operating Officer (COO) and regional managers identify trends in sales, track the effectiveness of stores, and pinpoint products that drive growth or incur losses. By leveraging key metrics like total revenue, year-over-year and month-over-month comparisons, and detailed product data, this dashboard enables data-driven decision-making for improving regional sales performance.
 
 **Target Audience**: Chief Operating Officer (COO) and Regional Managers  
 **Purpose**: To provide key insights into the performance of various stores and product categories for September 2021, allowing leadership to understand revenue trends and identify growth and loss drivers for strategic decision-making.
