@@ -44,4 +44,4 @@ The Monthly Sales Dashboard provides an in-depth view of the performance of Chic
 
 This dashboard equips the COO and regional managers with crucial insights into Chicago’s sales performance. By leveraging metrics such as total revenue, YoY and MoM comparisons, store-specific performance, and product-level analysis, the leadership team can make data-driven decisions to improve revenue trends, address underperforming stores, and optimize product offerings.
 
-![]()
+![](https://github.com/KunLinTsai24/Excel--Toys-Monthly-Sales-Dashboard/blob/main/img/Dashboard.png)
