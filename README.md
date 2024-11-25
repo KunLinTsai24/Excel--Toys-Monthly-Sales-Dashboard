@@ -23,7 +23,7 @@ The Monthly Sales Dashboard provides an in-depth view of the performance of Chic
 
 ---
 
-## **Insights**
+## **Insights and Recommendations**
 
 - **Revenue Decline in Chicago**: Chicago’s overall revenue decline, especially in O'Hare and Michigan Ave, suggests a need for immediate intervention to halt the downward trend and boost performance. The decrease in YoY and MoM revenue shows that the region might be losing its competitive edge compared to other locations.
 - **Product-Level Performance**: Nerf Gun, Rubik’s Cube, and other top performers present opportunities for further investment and promotion. In contrast, products like Lego Bricks and Colorbuds, which recorded significant losses, should be closely evaluated to determine whether they should be discontinued or repositioned.
