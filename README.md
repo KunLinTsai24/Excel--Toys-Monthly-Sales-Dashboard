@@ -30,16 +30,6 @@ The Monthly Sales Dashboard provides an in-depth view of the performance of Chic
 - **Store-Specific Insights**: Millenium’s 19% growth in MoM revenue shows the potential for replicating successful strategies in underperforming stores. On the other hand, O’Hare’s -33% drop suggests operational or market challenges that need to be addressed urgently.
 
 ---
-
-## **Techniques & Tools Used**
-
-1. **Top N Filtering**:  
-    Only the **top-performing and bottom-performing products** are displayed, using automatic sorting to focus the end user’s attention on what’s most impactful. This prevents clutter and ensures actionable insights.
-2. **Automatic Sorting**:  
-    The data was automatically sorted based on performance, enabling dynamic updates as new data becomes available. **Stores** and **products** were ranked by revenue using a combination of the **RANK.AVG**, **INDEX**, and **MATCH** functions. This setup allows users to easily identify top-performing and underperforming areas, ensuring they can prioritize where to take action quickly and effectively.
-3. **Conditional Formatting**:  
-    Conditional formatting was applied to the revenue and MoM % change columns, where **green indicates growth** and **red highlights losses**, making it easy to identify key growth drivers and problem areas at a glance.
----
 ## **Conclusion**
 
 This dashboard equips the COO and regional managers with crucial insights into Chicago’s sales performance. By leveraging metrics such as total revenue, YoY and MoM comparisons, store-specific performance, and product-level analysis, the leadership team can make data-driven decisions to improve revenue trends, address underperforming stores, and optimize product offerings.
